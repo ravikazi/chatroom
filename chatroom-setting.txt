@@ -1,0 +1,9 @@
+To Connect with server
+	/server1
+
+To send message
+	/app/message
+	{}
+	
+To subscribe so that we can get message
+	/topic/return-to
